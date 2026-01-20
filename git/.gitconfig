@@ -1,0 +1,5 @@
+[user]
+	name = Arjun Jayan
+	email = arjunjayan999@proton.me
+[credential]
+	helper = /mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe
