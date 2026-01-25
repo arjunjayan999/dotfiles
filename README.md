@@ -1,2 +1,2 @@
 # dotfiles
-My personal dotfiles (shell, git, editor configs, etc)
+My personal dotfiles (shell, prompt, git, editor configs, etc)
