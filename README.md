@@ -1,2 +1,2 @@
 # dotfiles
-My personal dotfiles (zsh files, starship, git config, editor configs, etc)
+My personal dotfiles (zsh, starship, git config, editor configs, etc)
